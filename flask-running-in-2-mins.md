@@ -1,7 +1,7 @@
 # flask-running-in-2-mins
 ### By Gontran Sion, the 2021-02-02.
 
-[(find the code here)](https://github.com/onsimini/python_playground/tree/main/flask-3-mins)
+[(find the code here)](https://github.com/onsimini/python_playground/tree/main/flask-running-in-2-mins)
 
 From you project folder, start your environment and activate it.
 
