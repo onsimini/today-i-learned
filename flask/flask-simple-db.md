@@ -1,4 +1,4 @@
-# flask-running-in-2-mins
+# flask-simple-db
 ### By Gontran Sion, the 2021-02-02.
 
 ```
