@@ -4,6 +4,6 @@
 To shutdown the beep sound of the terminal, 
 edit the /etc/inputrc, and uncomment the line
 
-'''
+```
 # set bell-style none
-'''
+```
