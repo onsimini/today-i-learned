@@ -11,8 +11,10 @@ git config --global commit.template ~/.gitmessage
 And save your git message file as : ~/.gitmessage
 
 Refs:
-![Pro Git](https://git-scm.com/book/en/v2)
-![conventionalcommits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+[Pro Git](https://git-scm.com/book/en/v2)
+
+[conventionalcommits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 .gitmessage file
 ```
