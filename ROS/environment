@@ -1,0 +1,7 @@
+Create Catkin Workspace:
+
+mkdir -p /home/workspace/catkin_ws/src
+cd /home/workspace/catkin_ws/src
+catkin_init_workspace
+cd ..
+catkin_make
